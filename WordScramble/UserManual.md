@@ -11,7 +11,7 @@ General Information
 
 **Software Description**
 
-SDPScramble is an application which allows users to enjoy solving scramble puzzles. The application provides a platform to build an active and engaging community as players will be able to put others to the challenge by creating their own scrambles and see how well other players are scoring. This application is a beta version and operates on mobile devices with Android operating system.
+Word Scramble is an application which allows users to enjoy solving scramble puzzles. The application provides a platform to build an active and engaging community as players will be able to put others to the challenge by creating their own scrambles and see how well other players are scoring. This application is a beta version and operates on mobile devices with Android operating system.
 
 **Organization of Manual**
 
@@ -30,7 +30,7 @@ System Summary
 
 **System Configuration**
 
-SDPScramble operates on mobile devices with Android operation system. It is compatible with Android 4.4 API level 19 and higher versions. After installation on the device, SDPScramble can be used immediately without any further configuration. The application currently does not require internet connection.
+ Word Scramble operates on mobile devices with Android operation system. It is compatible with Android 4.4 API level 19 and higher versions. After installation on the device, SDPScramble can be used immediately without any further configuration. The application currently does not require internet connection.
 
 **User Access Levels**
 
