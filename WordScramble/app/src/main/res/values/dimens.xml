@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--this is required to get rid of the error for textInputLayout-->
+<resources>
+    <item name="visible" type="id"/>
+    <item name="masked" type="id"/>
+</resources>

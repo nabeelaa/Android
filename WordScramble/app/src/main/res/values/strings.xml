@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scrambl\'d</string>
+    <string name="create_scramble">Create Scramble</string>
+    <string name="login">Login</string>
+    <string name="add_player">Add Player</string>
+    <string name="scramble_id">ID</string>
+    <string name="scramble_phrase">Scramble Phrase</string>
+    <string name="created_solved">Created/Solved</string>
+    <string name="solved"># Solved</string>
+</resources>
