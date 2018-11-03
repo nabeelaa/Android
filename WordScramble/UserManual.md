@@ -1,4 +1,4 @@
-SDPScramble Application Manual
+Word Scramble Application Manual
 ================================
 **Written by: 
 Wuping Liu /
